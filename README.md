@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @6ix9ineJJ currently doing bachelor in CompterScience
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning tech stuff
-- 💞️ I’m looking to collaborate on Web
+- 💞️ I’m looking to collaborate on Web technology
 - 📫 How to reach me usmanahmadjj97@gmail.com
 
 <!---
