@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @6ix9ineJJ currently doing bachelor in CompterScience
+- 👋 Hi, I’m @6ix9ineJJ currently my doing bachelor in CompterScience
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning tech stuff
 - 💞️ I’m looking to collaborate on Web technology
