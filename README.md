@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:101827,50:173b4f,100:7c3aed&text=USMAN%20AHMAD&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Data%20Science%20%7C%20Always%20Learning&descAlignY=60&descSize=16" width="100%" alt="Usman Ahmad — AI and machine learning" />
+<img src="assets/profile-mesh.svg" width="100%" alt="Usman Ahmad — AI, machine learning, and data science" />
 
 [![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36D399&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Building+practical+AI+%26+ML+projects;Curious+about+data%2C+models%2C+and+ideas)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 
 </div>
 
----
+<img src="assets/mesh-divider.svg" width="100%" alt="" />
 
 <table align="center">
 <tr>
@@ -45,6 +45,8 @@ I’m especially interested in turning messy real-world data into clear, useful 
 </tr>
 </table>
 
+<img src="assets/mesh-divider.svg" width="100%" alt="" />
+
 ## 🧰 My toolkit
 
 <div align="center">
@@ -59,6 +61,8 @@ I’m especially interested in turning messy real-world data into clear, useful 
 <img src="https://skillicons.dev/icons?i=vscode,docker,linux,aws,git&theme=dark" alt="VS Code, Docker, Linux, AWS, and Git" />
 
 </div>
+
+<img src="assets/mesh-divider.svg" width="100%" alt="" />
 
 <details>
 <summary><b>🧪 What I’m learning and building</b></summary>
@@ -75,6 +79,8 @@ I’m developing my skills through hands-on work in data analysis and predictive
 **Retention Risk Intelligence** — an end-to-end telecom churn prediction project. It compares four models using leakage-safe pipelines and five-fold cross-validation, selects Logistic Regression, and groups customers into high, medium, and low-risk segments.
 
 <a href="https://github.com/6ix9ineJJ/retention-risk-report-ui"><img src="https://img.shields.io/badge/Report_UI-View_dashboard-36d399?style=for-the-badge&logo=vercel&logoColor=111827" alt="Open report dashboard repository" /></a>
+
+<img src="assets/mesh-divider.svg" width="100%" alt="" />
 
 ## 📡 GitHub activity
 
@@ -105,6 +111,6 @@ I’m developing my skills through hands-on work in data analysis and predictive
 
 [![Say hello](https://img.shields.io/badge/LET'S%20CONNECT-usmanahmadjj97%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanahmadjj97@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c3aed,50:173b4f,100:101827" width="100%" alt="" />
+<img src="assets/mesh-divider.svg" width="100%" alt="" />
 
 </div>

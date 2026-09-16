@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" fill="none">
+  <defs>
+    <linearGradient id="base" x1="42" y1="16" x2="1120" y2="342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B18"/>
+      <stop offset=".48" stop-color="#11152B"/>
+      <stop offset="1" stop-color="#101A2B"/>
+    </linearGradient>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientTransform="matrix(326 206 -161 255 1070 35)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyan" cx="0" cy="0" r="1" gradientTransform="matrix(328 5 -4 260 201 324)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4" stop-opacity=".58"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pink" cx="0" cy="0" r="1" gradientTransform="matrix(183 106 -85 147 706 0)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EC4899" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset=".52" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#CBD5E1" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="330" rx="28" fill="url(#base)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#violet)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#cyan)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#pink)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="27" stroke="white" stroke-opacity=".16" stroke-width="2"/>
+  <rect x="72" y="70" width="5" height="176" rx="2.5" fill="url(#edge)"/>
+  <text x="103" y="147" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">USMAN AHMAD</text>
+  <text x="106" y="190" fill="#C4B5FD" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="700" letter-spacing="3">AI  /  MACHINE LEARNING  /  DATA SCIENCE</text>
+  <text x="106" y="229" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17">Curious mind. Practical projects. Always learning.</text>
+  <circle cx="1074" cy="218" r="39" stroke="#67E8F9" stroke-opacity=".8" stroke-width="2"/>
+  <circle cx="1074" cy="218" r="25" stroke="#C4B5FD" stroke-opacity=".78" stroke-width="2"/>
+  <circle cx="1074" cy="218" r="8" fill="#F0ABFC"/>
+  <path d="M1074 169V184M1074 252V267M1025 218H1040M1108 218H1123" stroke="#E2E8F0" stroke-opacity=".62" stroke-width="2" stroke-linecap="round"/>
+</svg>
