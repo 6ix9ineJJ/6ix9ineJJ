@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="52" viewBox="0 0 760 52" fill="none">
+  <defs>
+    <linearGradient id="text-gradient" x1="90" y1="0" x2="680" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset=".48" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <clipPath id="line-one"><rect x="88" y="0" width="0" height="52"><animate attributeName="width" values="0;500;500;0;0" keyTimes="0;.07;.2;.28;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="line-two"><rect x="88" y="0" width="0" height="52"><animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0;.333;.4;.533;.6;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="line-three"><rect x="88" y="0" width="0" height="52"><animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0;.667;.733;.867;.933;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <g fill="url(#text-gradient)" font-family="'Josefin Sans', Montserrat, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">
+    <text x="88" y="34" clip-path="url(#line-one)">COMPUTER SCIENCE GRADUATE</text>
+    <text x="88" y="34" clip-path="url(#line-two)">BUILDING PRACTICAL AI &amp; ML PROJECTS</text>
+    <text x="88" y="34" clip-path="url(#line-three)">CURIOUS ABOUT DATA, MODELS, AND IDEAS</text>
+  </g>
+</svg>
