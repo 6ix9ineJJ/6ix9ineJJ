@@ -2,7 +2,7 @@
 
 <img src="assets/profile-mesh.svg" width="100%" alt="Usman Ahmad — AI, machine learning, and data science" />
 
-[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36D399&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Building+practical+AI+%26+ML+projects;Curious+about+data%2C+models%2C+and+ideas)](https://git.io/typing-svg)
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate;Building+practical+AI+%26+ML+projects;Curious+about+data%2C+models%2C+and+ideas)](https://git.io/typing-svg)
 
 <a href="mailto:usmanahmadjj97@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Usman" /></a>
 <a href="https://github.com/6ix9ineJJ?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-36d399?style=for-the-badge&logo=github&logoColor=111827" alt="Explore projects" /></a>
@@ -12,38 +12,15 @@
 
 <img src="assets/mesh-divider.svg" width="100%" alt="" />
 
-<table align="center">
-<tr>
-<td width="58%" valign="top">
+## 👋 About me
 
-## 🧑‍🚀 About me
+Computer Science graduate from **FAST-NUCES**, interested in the space where code, data, and useful ideas meet. I learn by building practical projects in **AI, machine learning, and data science**.
 
-Computer Science graduate from **FAST-NUCES**, excited by the point where code, data, and useful ideas meet. I’m learning by building projects in **AI, machine learning, deep learning, NLP, and data engineering**.
+<div align="center">
 
-- 🎓 BS in Computer Science · FAST-NUCES
-- 🌱 Currently exploring AI/ML, deep learning, NLP, and data engineering
-- 🤝 Open to AI/ML projects, research, and open-source collaboration
-- 💬 Happy to talk Python, machine learning, data science, and algorithms
-- 📬 [usmanahmadjj97@gmail.com](mailto:usmanahmadjj97@gmail.com)
+🎓 **BS Computer Science · FAST-NUCES** &nbsp; ✦ &nbsp; 🤝 **Open to AI/ML collaboration** &nbsp; ✦ &nbsp; 💌 **[Email me](mailto:usmanahmadjj97@gmail.com)**
 
-</td>
-<td width="42%" valign="top">
-
-## 🎯 Current orbit
-
-```text
-Learn → Build → Test → Improve
-```
-
-**Career direction**
-
-`NLP` · `Deep Learning` · `Computer Vision` · `Predictive Modeling`
-
-I’m especially interested in turning messy real-world data into clear, useful decisions.
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="assets/mesh-divider.svg" width="100%" alt="" />
 
@@ -65,10 +42,12 @@ I’m especially interested in turning messy real-world data into clear, useful 
 <img src="assets/mesh-divider.svg" width="100%" alt="" />
 
 <details>
-<summary><b>🧪 What I’m learning and building</b></summary>
+<summary><b>🧪 Current learning focus</b></summary>
 <br />
 
-I’m developing my skills through hands-on work in data analysis and predictive modeling, while exploring natural language processing, neural networks, computer vision, and data engineering. I value clear explanations, careful evaluation, and projects that solve a concrete problem.
+`NLP` · `Deep Learning` · `Computer Vision` · `Predictive Modeling` · `Data Engineering`
+
+I’m especially interested in turning real-world data into clear, useful decisions. I value careful evaluation, understandable models, and projects built around a concrete problem.
 
 </details>
 
@@ -86,24 +65,12 @@ I’m developing my skills through hands-on work in data analysis and predictive
 
 <div align="center">
 
-<a href="https://github.com/6ix9ineJJ"><img height="165" src="https://github-readme-stats.vercel.app/api?username=6ix9ineJJ&show_icons=true&hide_border=true&bg_color=0d1117&title_color=36d399&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" /></a>
-<a href="https://github.com/6ix9ineJJ"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ix9ineJJ&layout=compact&hide_border=true&bg_color=0d1117&title_color=36d399&text_color=c9d1d9" alt="Top languages" /></a>
+<a href="https://github.com/6ix9ineJJ"><img height="165" src="https://github-readme-stats.vercel.app/api?username=6ix9ineJJ&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" /></a>
+<a href="https://github.com/6ix9ineJJ"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ix9ineJJ&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=c9d1d9" alt="Top languages" /></a>
 
-<a href="https://github.com/6ix9ineJJ?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=6ix9ineJJ&theme=tokyonight&hide_border=true&background=0D1117&ring=36D399&fire=7C3AED&currStreakLabel=36D399" alt="GitHub contribution streak" /></a>
+<a href="https://github.com/6ix9ineJJ?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=6ix9ineJJ&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub contribution streak" /></a>
 
 </div>
-
-<details>
-<summary><b>🧭 The areas I want to explore next</b></summary>
-<br />
-
-- Natural language processing
-- Deep learning and neural networks
-- Computer vision
-- Data analysis and predictive modeling
-- AI/ML research and open-source projects
-
-</details>
 
 <div align="center">
 
