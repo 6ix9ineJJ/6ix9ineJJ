@@ -2,7 +2,7 @@
 
 <img src="assets/profile-mesh.svg" width="100%" alt="Usman Ahmad — AI, machine learning, and data science" />
 
-[![Typing intro](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=19&letterSpacing=2&pause=1200&color=67E8F9&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+GRADUATE;BUILDING+PRACTICAL+AI+%26+ML+PROJECTS;CURIOUS+ABOUT+DATA%2C+MODELS%2C+AND+IDEAS)](https://git.io/typing-svg)
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=19&letterSpacing=2&pause=1200&color=E879F9&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+GRADUATE;BUILDING+PRACTICAL+AI+%26+ML+PROJECTS;CURIOUS+ABOUT+DATA%2C+MODELS%2C+AND+IDEAS)](https://git.io/typing-svg)
 
 <a href="mailto:usmanahmadjj97@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Usman" /></a>
 <a href="https://github.com/6ix9ineJJ?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-36d399?style=for-the-badge&logo=github&logoColor=111827" alt="Explore projects" /></a>
