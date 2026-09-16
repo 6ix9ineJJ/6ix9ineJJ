@@ -1,64 +1,110 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dawoodeveloper)
+<div align="center">
 
-# Hi! I'm Usman Ahmad 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:101827,50:173b4f,100:7c3aed&text=USMAN%20AHMAD&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Data%20Science%20%7C%20Always%20Learning&descAlignY=60&descSize=16" width="100%" alt="Usman Ahmad — AI and machine learning" />
 
-## 👨🏻‍💻 About Me
-I am a **Computer Science graduate** passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**.  
-I am focused on building AI/ML solutions, improving data-driven decision-making, and exploring advanced algorithms.  
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36D399&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Building+practical+AI+%26+ML+projects;Curious+about+data%2C+models%2C+and+ideas)](https://git.io/typing-svg)
 
-- 🎓 Completed **BS in Computer Science** from FAST-NUCES.  
-- 🌱 Currently learning **AI, ML, Deep Learning, NLP, and data engineering**.  
-- 👯 Looking to collaborate on **AI/ML projects and research initiatives**.  
-- 💬 Ask me about **Python, AI/ML frameworks, data science, and algorithms**.  
-- 📫 Reach me at: **usmanahmadjj97@gmail.com**  
+<a href="mailto:usmanahmadjj97@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Usman" /></a>
+<a href="https://github.com/6ix9ineJJ?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-36d399?style=for-the-badge&logo=github&logoColor=111827" alt="Explore projects" /></a>
+<img src="https://komarev.com/ghpvc/?username=6ix9ineJJ&style=for-the-badge&color=111827&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+<table align="center">
+<tr>
+<td width="58%" valign="top">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+## 🧑‍🚀 About me
 
-### AI/ML Frameworks & Tools
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![scikit-learn](https://img.shields.io/badge/-scikit-learn-000?&logo=scikit-learn)
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+Computer Science graduate from **FAST-NUCES**, excited by the point where code, data, and useful ideas meet. I’m learning by building projects in **AI, machine learning, deep learning, NLP, and data engineering**.
 
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+- 🎓 BS in Computer Science · FAST-NUCES
+- 🌱 Currently exploring AI/ML, deep learning, NLP, and data engineering
+- 🤝 Open to AI/ML projects, research, and open-source collaboration
+- 💬 Happy to talk Python, machine learning, data science, and algorithms
+- 📬 [usmanahmadjj97@gmail.com](mailto:usmanahmadjj97@gmail.com)
 
----
+</td>
+<td width="42%" valign="top">
 
-## 📊 GitHub Stats
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=6ix9ineJJ&theme=high-contrast)](https://github.com/6ix9ineJJ/github-readme-activity-graph)
+## 🎯 Current orbit
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6ix9ineJJ&theme=dark&show_icons=true&background=1c1917)
+```text
+Learn → Build → Test → Improve
+```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6ix9ineJJ&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false)](https://github.com/6ix9ineJJ)
+**Career direction**
 
----
+`NLP` · `Deep Learning` · `Computer Vision` · `Predictive Modeling`
 
-## 🔝 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6ix9ineJJ&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en)](https://github.com/6ix9ineJJ)
+I’m especially interested in turning messy real-world data into clear, useful decisions.
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 Career Focus
-I am actively pursuing a career in **AI and Machine Learning**, with interest in:  
-- Natural Language Processing (NLP)  
-- Deep Learning and Neural Networks  
-- Computer Vision  
-- Data Analysis and Predictive Modeling  
+## 🧰 My toolkit
 
-I am looking for opportunities to contribute to **AI/ML research projects, internships, and open-source initiatives**.
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,c,java,cpp,mysql&theme=dark" alt="Python, JavaScript, C, Java, C++, and MySQL" />
+
+### AI, machine learning & notebooks
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,jupyter&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, Keras, and Jupyter" />
+
+### Tools & platforms
+<img src="https://skillicons.dev/icons?i=vscode,docker,linux,aws,git&theme=dark" alt="VS Code, Docker, Linux, AWS, and Git" />
+
+</div>
+
+<details>
+<summary><b>🧪 What I’m learning and building</b></summary>
+<br />
+
+I’m developing my skills through hands-on work in data analysis and predictive modeling, while exploring natural language processing, neural networks, computer vision, and data engineering. I value clear explanations, careful evaluation, and projects that solve a concrete problem.
+
+</details>
+
+## 🚀 Featured project
+
+<a href="https://github.com/6ix9ineJJ/Retention-risk-intelligence-ML"><img src="https://github-readme-stats.vercel.app/api/pin/?username=6ix9ineJJ&repo=Retention-risk-intelligence-ML&theme=tokyonight&hide_border=true" alt="Retention Risk Intelligence project card" /></a>
+
+**Retention Risk Intelligence** — an end-to-end telecom churn prediction project. It compares four models using leakage-safe pipelines and five-fold cross-validation, selects Logistic Regression, and groups customers into high, medium, and low-risk segments.
+
+<a href="https://github.com/6ix9ineJJ/retention-risk-report-ui"><img src="https://img.shields.io/badge/Report_UI-View_dashboard-36d399?style=for-the-badge&logo=vercel&logoColor=111827" alt="Open report dashboard repository" /></a>
+
+## 📡 GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/6ix9ineJJ"><img height="165" src="https://github-readme-stats.vercel.app/api?username=6ix9ineJJ&show_icons=true&hide_border=true&bg_color=0d1117&title_color=36d399&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" /></a>
+<a href="https://github.com/6ix9ineJJ"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ix9ineJJ&layout=compact&hide_border=true&bg_color=0d1117&title_color=36d399&text_color=c9d1d9" alt="Top languages" /></a>
+
+<a href="https://github.com/6ix9ineJJ?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=6ix9ineJJ&theme=tokyonight&hide_border=true&background=0D1117&ring=36D399&fire=7C3AED&currStreakLabel=36D399" alt="GitHub contribution streak" /></a>
+
+</div>
+
+<details>
+<summary><b>🧭 The areas I want to explore next</b></summary>
+<br />
+
+- Natural language processing
+- Deep learning and neural networks
+- Computer vision
+- Data analysis and predictive modeling
+- AI/ML research and open-source projects
+
+</details>
+
+<div align="center">
+
+### Let’s make something useful.
+
+[![Say hello](https://img.shields.io/badge/LET'S%20CONNECT-usmanahmadjj97%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanahmadjj97@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c3aed,50:173b4f,100:101827" width="100%" alt="" />
+
+</div>
